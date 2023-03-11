@@ -4,40 +4,9 @@ This repository contains programs for predicting spatiotemporal distribution of 
 
 ## Video Clips
 
-### Visualizatin of Prediction Results with Coastline
+Video clips for [1] (mp4 format) can be downloaded from [videos/mp4](https://github.com/thirakawa/DengueFeverPredictionUNet/tree/main/videos/mp4).
 
-<div align="center">
-    <div style="display: flex; flex-direction: row; justify-content: center;">
-        <div>
-            <img src="./videos/with_coastline/1A_gt_dengue.gif" width="180px" alt>
-            <p>Video Clip 1A</p>
-        </div>
-        <div>
-            <img src="./videos/with_coastline/1B_all_test.gif" width="180px" alt>
-            <p>Video Clip 1B</p>
-        </div>
-        <div>
-        <img src="./videos/with_coastline/1C_sst_day_test.gif" width="180px" alt>
-            <p>Video Clip 1C</p>
-        </div>
-    </div>
-    <div style="display: flex; flex-direction: row; justify-content: center;">
-        <div>
-            <img src="./videos/with_coastline/1D_precipitation_test.gif" width="180px" alt>
-            <p>Video Clip 1D</p>
-        </div>
-        <div>
-            <img src="./videos/with_coastline/1E_solar_test.gif" width="180px" alt>
-            <p>Video Clip 1E</p>
-        </div>
-        <div>
-        <img src="./videos/with_coastline/1F_precipitation_solar_test.gif" width="180px" alt>
-            <p>Video Clip 1F</p>
-        </div>
-    </div>
-</div>
-
-### Visualizatin of Prediction Results without Coastline
+We also visualize the same video clips (GIF format) below.
 
 <div align="center">
     <div style="display: flex; flex-direction: row; justify-content: center;">
@@ -69,8 +38,6 @@ This repository contains programs for predicting spatiotemporal distribution of 
         </div>
     </div>
 </div>
-
-
 
 
 ## Usage
